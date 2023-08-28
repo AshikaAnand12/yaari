@@ -1,4 +1,4 @@
-# yaari
+# Yaari
 
 MERN Stack Chat App is a real-time messaging application that allows users to communicate through individual and group chats. It offers features like user authentication, real-time chatting, notifications, single and group chats, all built using the MERN (MongoDB, Express, React, Node) stack. The application is deployed using Render for seamless hosting.
 
