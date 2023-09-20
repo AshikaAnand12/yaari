@@ -24,4 +24,4 @@ The application is built using a variety of technologies and libraries, includin
 
 ## Deployment
 
-The application can be easily accessed at [Yaari](https://yaari.onrender.com/)  (<i>Please give the App sometime to load</i>)
+The application can be easily accessed at [Yaari](https://yaari.onrender.com/)  <i>Please give the App sometime to load</i>
